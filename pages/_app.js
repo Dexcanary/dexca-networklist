@@ -3,7 +3,7 @@ import { ThemeProvider } from '@material-ui/core/styles';
 import CssBaseline from '@material-ui/core/CssBaseline';
 
 import SnackbarController from '../components/snackbar'
-import ShutdownNotice from '../components/shutdownNotice'
+
 
 import stores from '../stores/index.js'
 
