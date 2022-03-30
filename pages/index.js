@@ -125,7 +125,7 @@ function Home({ changeTheme, theme }) {
     <div className={styles.container}>
       <Head>
         <title>Dexca Network List</title>
-        <link rel="icon" href="/C4732A52-9C08-43E9-BD00-FD712C0B87E2.png" />
+        <link rel="icon" href="https://avatars.githubusercontent.com/u/102577798?s=400&u=322c1af2172a9ddaa5fda695ac0793c154ff31e6&v=4" />
       </Head>
 
       <main className={styles.main}>
