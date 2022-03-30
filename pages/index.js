@@ -124,7 +124,7 @@ function Home({ changeTheme, theme }) {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Chainlist</title>
+        <title>Dexca Network List</title>
         <link rel="icon" href="/favicon.png" />
       </Head>
 
