@@ -72,7 +72,7 @@ export default function Multichain({ closeMultichain }) {
       <ThemeProvider theme={theme}>
         <div className={ classes.topInfo }>
           <img src='/multichain-logo.png' width={ 126 } height={ 126 } className={ classes.avatar } />
-          <Typography variant='subtitle1' className={ classes.descriptionText} align='center' >Manage over 120 tokens and multi-chain assets with fully supported cross chain transactions.</Typography>
+          <Typography variant='subtitle1' className={ classes.descriptionText} align='center' >Safe cryptocurrency wallet which allow user to store multiples account also supporting all chains and tokens.</Typography>
           <Button
             className={ classes.tryButton }
             variant='contained'
