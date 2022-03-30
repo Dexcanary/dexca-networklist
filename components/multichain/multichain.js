@@ -81,7 +81,7 @@ export default function Multichain({ closeMultichain }) {
             color='secondary'
             endIcon={<ArrowForwardIcon />}
           >
-            <Typography className={ classes.buttonLabel }>Try out <b>multichain.xyz</b></Typography>
+            <Typography className={ classes.buttonLabel }>Try out <b>hexapocket.wallet</b></Typography>
           </Button>
         </div>
         <div className={ classes.bottomActions }>
