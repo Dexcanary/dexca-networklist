@@ -71,7 +71,7 @@ export default function Multichain({ closeMultichain }) {
     <Paper elevation={ 1 } className={ classes.chainContainer } key={ 'multichain' } >
       <ThemeProvider theme={theme}>
         <div className={ classes.topInfo }>
-          <img src='/multichain-logo.png' width={ 126 } height={ 126 } className={ classes.avatar } />
+          <img src='https://s3-alpha-sig.figma.com/img/09cd/fc9e/80f5c54398af1ff7e1ce7483a6d7229f?Expires=1651449600&Signature=MzIgZDO4QBNkxJZW2iLA3yZoSUnFGAcc0A-t2~zF83G0Fui~bJuUv3wq7o--~O8n1zLZ-BAcCaqnqWbuVGhIin15TKXacmae7Bi6Zh67ltsuGx3Gj9g~f3x87pnFUwD7Bglc8dmojnlGlHU9sig1~S3HfpDQZVd9tW3WNrS9o7CS1u3~HM9i9~vHVr785BtMhLApK4MloBxOiQdPNIpsQ8nNhnl8-p0sKKj2Ag9zagtX3XKvfQgakzL6D6ZeULeW7B9HxmYLbljboSEsJUQxZGWYofzI-MpkJXmCXqmGFVjZnzQyR6~uB9WFxiEEqQPToK6~gEe2MqkoptWqADcmbQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA' width={ 126 } height={ 126 } className={ classes.avatar } />
           <Typography variant='subtitle1' className={ classes.descriptionText} align='center' >Safe cryptocurrency wallet which allow user to store multiples account also supporting all chains and tokens.</Typography>
           <Button
             className={ classes.tryButton }
